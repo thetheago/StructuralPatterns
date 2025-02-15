@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern\BudgetStates;
+namespace Thiago\StructuralPattern\BudgetStates;
 
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 class BudgetOnApproval extends BudgetState
 {

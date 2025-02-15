@@ -1,7 +1,7 @@
 <?php
 
-use Thiago\BehavioralPattern\Budget;
-use Thiago\BehavioralPattern\DiscountCalculator;
+use Thiago\StructuralPattern\Budget;
+use Thiago\StructuralPattern\DiscountCalculator;
 
 require 'vendor/autoload.php';
 

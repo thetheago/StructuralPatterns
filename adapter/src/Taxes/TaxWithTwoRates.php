@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Taxes;
+namespace Thiago\StructuralPattern\Taxes;
 
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 abstract class TaxWithTwoRates
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern;
+namespace Thiago\StructuralPattern;
 
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 class Order
 {

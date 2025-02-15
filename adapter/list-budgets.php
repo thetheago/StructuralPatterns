@@ -2,8 +2,8 @@
 
 require_once "vendor/autoload.php";
 
-use Thiago\BehavioralPattern\Budget;
-use Thiago\BehavioralPattern\BudgetsList;
+use Thiago\StructuralPattern\Budget;
+use Thiago\StructuralPattern\BudgetsList;
 
 $budget = new Budget();
 $budget->itemsQuantity = 7;

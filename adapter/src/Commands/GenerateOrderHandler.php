@@ -1,10 +1,10 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Commands;
+namespace Thiago\StructuralPattern\Commands;
 
 use DateTimeImmutable;
-use Thiago\BehavioralPattern\Budget;
-use Thiago\BehavioralPattern\Order;
+use Thiago\StructuralPattern\Budget;
+use Thiago\StructuralPattern\Order;
 
 class GenerateOrderHandler
 {

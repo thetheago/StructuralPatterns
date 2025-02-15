@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Interfaces;
+namespace Thiago\StructuralPattern\Interfaces;
 
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 interface TaxInterface
 {

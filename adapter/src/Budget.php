@@ -1,9 +1,9 @@
 <?php
 
-namespace Thiago\BehavioralPattern;
+namespace Thiago\StructuralPattern;
 
-use Thiago\BehavioralPattern\BudgetStates\BudgetOnApproval;
-use Thiago\BehavioralPattern\BudgetStates\BudgetState;
+use Thiago\StructuralPattern\BudgetStates\BudgetOnApproval;
+use Thiago\StructuralPattern\BudgetStates\BudgetState;
 
 class Budget
 {

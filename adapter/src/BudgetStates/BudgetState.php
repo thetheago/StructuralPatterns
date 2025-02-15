@@ -1,9 +1,9 @@
 <?php
 
-namespace Thiago\BehavioralPattern\BudgetStates;
+namespace Thiago\StructuralPattern\BudgetStates;
 
 use DomainException;
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 abstract class BudgetState
 {

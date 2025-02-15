@@ -1,9 +1,9 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Taxes;
+namespace Thiago\StructuralPattern\Taxes;
 
-use Thiago\BehavioralPattern\Budget;
-use Thiago\BehavioralPattern\Interfaces\TaxInterface;
+use Thiago\StructuralPattern\Budget;
+use Thiago\StructuralPattern\Interfaces\TaxInterface;
 
 class Icms implements TaxInterface
 {

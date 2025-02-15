@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern;
+namespace Thiago\StructuralPattern;
 
-use Thiago\BehavioralPattern\Discounts\DiscountItemsMoreThanFive;
+use Thiago\StructuralPattern\Discounts\DiscountItemsMoreThanFive;
 
 class DiscountCalculator
 {

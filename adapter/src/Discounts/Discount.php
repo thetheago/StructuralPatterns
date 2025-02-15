@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Discounts;
+namespace Thiago\StructuralPattern\Discounts;
 
-use Thiago\BehavioralPattern\Budget;
+use Thiago\StructuralPattern\Budget;
 
 abstract class Discount
 {

@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "Thiago\\BehavioralPattern\\": "src"
+            "Thiago\\StructuralPattern\\": "src"
         }
     }
 }

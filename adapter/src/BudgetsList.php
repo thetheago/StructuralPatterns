@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiago\BehavioralPattern;
+namespace Thiago\StructuralPattern;
 
 use ArrayIterator;
 use IteratorAggregate;

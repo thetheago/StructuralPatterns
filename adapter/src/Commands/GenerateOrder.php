@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiago\BehavioralPattern\Commands;
+namespace Thiago\StructuralPattern\Commands;
 
 class GenerateOrder
 {

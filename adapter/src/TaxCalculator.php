@@ -1,8 +1,8 @@
 <?php
 
-namespace Thiago\BehavioralPattern;
+namespace Thiago\StructuralPattern;
 
-use Thiago\BehavioralPattern\Interfaces\TaxInterface;
+use Thiago\StructuralPattern\Interfaces\TaxInterface;
 
 class TaxCalculator
 {
