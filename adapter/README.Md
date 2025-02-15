@@ -1,5 +1,2 @@
-Bom... esse é basicamente uma solução para um Array tipado no PHP kkkkkkkk
-Basta implementar a interface Iterator e expor os comportamentos
-para controlar a iteração pelos itens.
-
-Esse é o meu favorito por que é simples.
+A ideia aqui é bem simples, se você segue boas práticas e conhece SOLID você provavelmente já utiliza esse pattern tem saber..
+Ao ter uma responsabilidade diferente na sua classe que poderia estar em outro contexto você deve passar essa responsabilidade para outra classe e injeta-la no seu contexto através de dependência, mas mais do que isso, a sua classe não deve depender da outra classe em específico, mas sim de interfaces (Dependency Inversion do SOLID se eu não estiver enganado..), tendo uma interface como dependencia, tanto faz qual classe irá servir, com tanto que ela respeite o contrato.

@@ -8,7 +8,7 @@ class DiscountCalculator
 {
     public function calculateDiscount(Budget $budget) : float
     {
-        $discountItemsMoreThanFive = new DiscountItemsMoreThanFive();        
+        $discountItemsMoreThanFive = new DiscountItemsMoreThanFive();
         return $discountItemsMoreThanFive->calculateDiscount($budget);
     }
 }
